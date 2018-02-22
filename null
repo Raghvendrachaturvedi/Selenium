@@ -1,0 +1,10 @@
+1519238987761	geckodriver	INFO	geckodriver 0.19.1
+1519238987770	geckodriver	INFO	Listening on 127.0.0.1:31930
+1519238988645	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Swati\\AppData\\Local\\Temp\\rust_mozprofile.qCTcet9onRx2"
+1519238989441	Marionette	INFO	Enabled via --marionette
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+1519238991627	Marionette	INFO	Listening on port 12893
+1519238991755	Marionette	WARN	TLS certificate errors will be ignored for this session

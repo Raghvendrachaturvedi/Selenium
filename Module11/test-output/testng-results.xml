@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43949" started-at="2015-10-05T05:12:28Z" finished-at="2015-10-05T05:13:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="43949" started-at="2015-10-05T05:12:28Z" finished-at="2015-10-05T05:13:12Z">
+      <class name="LaunchDynamically">
+        <test-method status="PASS" signature="testApp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:LaunchDynamically@6833ce2c]" name="testApp" duration-ms="19116" started-at="2015-10-05T10:42:28Z" data-provider="getData" finished-at="2015-10-05T10:42:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mozilla]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[U1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[P1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApp -->
+        <test-method status="PASS" signature="testApp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:LaunchDynamically@6833ce2c]" name="testApp" duration-ms="12706" started-at="2015-10-05T10:42:47Z" data-provider="getData" finished-at="2015-10-05T10:43:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[U2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[P2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApp -->
+        <test-method status="PASS" signature="testApp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:LaunchDynamically@6833ce2c]" name="testApp" duration-ms="12112" started-at="2015-10-05T10:43:00Z" data-provider="getData" finished-at="2015-10-05T10:43:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[IE]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[U1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[P1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApp -->
+      </class> <!-- LaunchDynamically -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
